@@ -1,13 +1,13 @@
 ---
-title: Factores de Calidad del Software
+title: Redes de comunicaciones
 author: Lizbeth Ch.
 layout: post
 icon: fa-lightbulb
 icon-style: regular
 ---
 
+<h2>Redes de Comunicaciones</h2>
+<p><b> Las redes, este tema son muy importantes en la actualidad, por ejemplo el 5G, el cual nos incorpora avances comparados a la tecnologia actual. <br>
+</p> Una de las mejoras importantes es la velocidad de carga y descarga de los megas del dispositivo que lo use.
 
-<center><img src="https://zimbronapps.com/wp-content/uploads/2017/11/Factores-de-calidad-seg%C3%BAn-ISO-9126.jpg"></center>
-<h2>Factores de calidad del Software</h2>
-<p><b>Calidad:</b> Conjunto de propiedades y de características de un producto o servicio, que le confieren aptitud para satisfacer una necesidad explícita o implícita (ISO 8402).<br>
-<b>Software:</b> Es el grado con el que un sistema, componente o proceso cumple los requerimientos especificados y las necesidades o expectativas del cliente o usuario.</p>
+<center><img src="https://sites.google.com/site/lastics000/_/rsrc/1455100457614/redes-en-el-hogar/Domotica-inalambrica-1-sistemas-hogar.jpg?height=241&width=320"></center>
